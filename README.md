@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ilky03 - computer science student
+- 👋 Hi, I’m @ilky03 - computer science student.
 - 👀 I’m interested in web-development.
 - 🌱 I’m currently learning HTML/CSS, JavaScript, Python, C.
 - 📫 How to reach me ilyakirinyuk8@gmail.com
