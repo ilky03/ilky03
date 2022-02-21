@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ilky03 - [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+- 👋 Hi, I’m @ilky03 - computer science student
 - 👀 I’m interested in web-development.
 - 🌱 I’m currently learning HTML/CSS, JavaScript, Python, C.
 - 📫 How to reach me ilyakirinyuk8@gmail.com
-- 🏆 CS50 ![Certificate](https://cs50.harvard.edu/certificates/3117ca9c-54d0-49db-873c-fc671696932c)
-- 🏆 freeCodeCamp Responsive Web Design ![Certificate](https://freecodecamp.org/certification/ilky03/responsive-web-design)
+- 🏆 CS50 [Certificate](https://cs50.harvard.edu/certificates/3117ca9c-54d0-49db-873c-fc671696932c)
+- 🏆 freeCodeCamp Responsive Web Design [Certificate](https://freecodecamp.org/certification/ilky03/responsive-web-design)
