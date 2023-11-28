@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ilky03 - computer science student.
 - 👀 I’m interested in web-development.
 - 🌱 I’m currently learning HTML/CSS, JavaScript, React, Python, C.
+- 🎓 I'm a 4th year student at VNTU, Ukraine
 - 📫 How to reach me ilyakirinyuk8@gmail.com
 - 🏆 CS50 [Certificate](https://cs50.harvard.edu/certificates/3117ca9c-54d0-49db-873c-fc671696932c)
 - 🏆 freeCodeCamp Responsive Web Design [Certificate](https://freecodecamp.org/certification/ilky03/responsive-web-design)
