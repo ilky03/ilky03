@@ -1,7 +1,23 @@
-- 👋 Hi, I’m @ilky03 - computer science student.
-- 👀 I’m interested in web-development.
-- 🌱 I’m currently learning HTML/CSS, JavaScript, React, Python, C.
-- 🎓 I'm a 4th year student at VNTU, Ukraine
-- 📫 How to reach me ilyakirinyuk8@gmail.com
-- 🏆 CS50 [Certificate](https://cs50.harvard.edu/certificates/3117ca9c-54d0-49db-873c-fc671696932c)
-- 🏆 freeCodeCamp Responsive Web Design [Certificate](https://freecodecamp.org/certification/ilky03/responsive-web-design)
+# Hi there 👋, I'm Illia Kyryniuk
+
+- 👨‍💻 I’m a **Front-End Developer** with experience building scalable and responsive web applications.  
+- 🎓 4th-year **Computer Science student** at Vinnytsia National Technical University (VNTU), Ukraine.  
+- 🌱 Currently working with **React, TypeScript, Tailwind CSS, Shadcn, Node.js, HTML5, CSS3, and JavaScript**.  
+- 📫 Contact me at: [ilyakirinyuk8@gmail.com](mailto:ilyakirinyuk8@gmail.com)  
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ilky03/)  
+  
+---
+
+### 🔭 Current Focus
+- Developing **React applications** with modern UI frameworks.  
+- Creating **reusable components** and improving **frontend architecture**.  
+
+### 💬 Skills
+- **Languages:** JavaScript, TypeScript, HTML5, CSS3  
+- **Frameworks & Libraries:** React, Node.js, Bootstrap, Tailwind CSS, Shadcn, Storybook, SASS/SCSS  
+- **APIs & Tools:** REST API, Protobuf, Firebase, Figma  
+- **Databases:** PostgreSQL  
+- **Version Control:** Git, GitHub, Azure DevOps  
+- **Testing:** Playwright, React Testing Library, Mocha, Chai, Sinon  
+
+
