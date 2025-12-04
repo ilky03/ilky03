@@ -1,16 +1,12 @@
 # Hi there 👋, I'm Illia Kyryniuk
 
-- 👨‍💻 I’m a **Front-End Developer** with experience building scalable and responsive web applications.  
+- 👨‍💻 I’m a **Front-End Developer** with 1+ years of commercial experience as a Junior Software Engineer.  
 - 🎓 4th-year **Computer Science student** at Vinnytsia National Technical University (VNTU), Ukraine.  
 - 🌱 Currently working with **React, TypeScript, Tailwind CSS, Shadcn, Node.js, HTML5, CSS3, and JavaScript**.  
 - 📫 Contact me at: [ilyakirinyuk8@gmail.com](mailto:ilyakirinyuk8@gmail.com)  
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ilky03/)  
   
 ---
-
-### 🔭 Current Focus
-- Developing **React applications** with modern UI frameworks.  
-- Creating **reusable components** and improving **frontend architecture**.  
 
 ### 💬 Skills
 - **Languages:** JavaScript, TypeScript, HTML5, CSS3  
